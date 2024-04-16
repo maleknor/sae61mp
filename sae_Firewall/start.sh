@@ -1,7 +1,7 @@
 #!/bin/bash
 
-server_dir="/home/user/sae61_mp/sae_Firewall/server"
-client_dir="/home/user/sae61_mp/sae_Firewall/client"
+server_dir="/home/user/sae61mp/sae_Firewall/server"
+client_dir="/home/user/sae61mp/sae_Firewall/client"
 
 launch_vagrant() {
     cd "$1"
